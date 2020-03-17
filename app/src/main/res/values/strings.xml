@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">EatApp</string>
+    <string name="eatapp">EAT APP</string>
+    <string name="description">An extensive food ordering platform that helps restaurants to get connected online with customers. Explore now.</string>
+    <string name="signup">Sign Up</string>
+    <string name="signin">Sign In</string>
+
+
 </resources>
